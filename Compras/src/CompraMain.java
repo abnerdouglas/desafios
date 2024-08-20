@@ -2,7 +2,7 @@
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main {
+public class CompraMain {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         System.out.println("Digite o limite do cartão:");

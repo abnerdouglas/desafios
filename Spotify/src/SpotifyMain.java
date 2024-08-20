@@ -1,5 +1,5 @@
 
-public class Main {
+public class SpotifyMain {
     public static void main(String[] args) {
 
         Musica musica = new Musica();

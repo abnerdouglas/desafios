@@ -9,7 +9,7 @@
 <p>O projeto é composto por uma única classe principal:</p>
 
 <ul>
-    <li><strong>Main</strong>: Classe que contém o método <code>main</code>, responsável por interagir com o usuário, fazer a requisição HTTP para a API do OMDb e exibir a resposta. </li>
+    <li><strong>ApiFileMain</strong>: Classe que contém o método <code>main</code>, responsável por interagir com o usuário, fazer a requisição HTTP para a API do OMDb e exibir a resposta. </li>
     <li><strong>Api utilizada</strong>: https://www.omdbapi.com </li>
 </ul>
 

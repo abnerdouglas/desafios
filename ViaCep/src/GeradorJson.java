@@ -10,7 +10,7 @@ public class GeradorJson {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
         String nomeArquivo = endereco.cep() + ".json";
-        String diretorio = "ceps/";
+        String diretorio = "./ViaCep/src/ceps/";
 
         FileWriter file = new FileWriter(diretorio + nomeArquivo);
         file.write(gson.toJson(endereco));
